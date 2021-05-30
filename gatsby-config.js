@@ -6,7 +6,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-netlify-functions`,
       options: {
-        functionsSrc: `${__dirname}/functions`,
+        functionsSrc: `${__dirname}/src/functions`,
         functionsOutput: `${__dirname}/functions`,
       },
     },
