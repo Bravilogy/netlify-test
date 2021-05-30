@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "twisted-hologram",
+    title: 'twisted-hologram',
   },
-  plugins: ["gatsby-plugin-netlify-cms"],
+  plugins: [],
 };
