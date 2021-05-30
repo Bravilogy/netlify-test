@@ -9,5 +9,6 @@ module.exports = {
         functionsSrc: `${__dirname}/functions`,
         functionsOutput: `${__dirname}/functions`,
       },
+    },
   ],
 };
